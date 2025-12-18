@@ -1,8 +1,8 @@
 ## Site Meta ##
 # The title of the website.
-title: "Lens - Elastic Designs"
+title: "Wesley Scafe"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "Wesley Scafe's Porfolio for Drafting, Design, Art, and 3D Modeling"
 # Keywords/tags for you site.
 keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
@@ -10,20 +10,20 @@ copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Wesley Scafe"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "Drafting & Design"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "Projects including residential new builds, full home renovations, and technical drafting."
 social:
   # Your Twitter username.
   twitter_username: ""
   # Your Facebook username.
   facebook_username: ""
   # Your Instagram username.
-  instagram_username: ""
+  instagram_username: "wesley.scafe"
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: ""
   # Your email address.
   email: ""
 
