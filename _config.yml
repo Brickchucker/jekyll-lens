@@ -1,6 +1,6 @@
 ## Site Meta ##
 # The title of the website.
-title: "Wesley Scafe"
+title: "Wesley Scafe's Portfolio Site"
 # The description of the website
 description: "Wesley Scafe's Porfolio for Drafting, Design, Art, and 3D Modeling"
 # Keywords/tags for you site.
@@ -10,7 +10,7 @@ copyright: "Copyright &copy; 2025 - Wesley Scafe"
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Wesley Scafe"
+header: <img src="WesleyScafeLogo.png">
 # 2nd heading/sub heading of the website.
 subheader: "Drafting & Design"
 # A description/bio of the website.
