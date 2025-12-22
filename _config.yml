@@ -10,7 +10,7 @@ copyright: "Copyright &copy; 2025 - Wesley Scafe"
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: <img src="WesleyScafeLogo.png">
+header: <img src=//images/"WesleyScafeLogo.png" alt="Wesley Scafe">
 # 2nd heading/sub heading of the website.
 subheader: "Drafting & Design"
 # A description/bio of the website.
